@@ -10,6 +10,7 @@
         <a href="">about us</a>
         <a href="">products</a>
         <a href="">contact us</a>
+        <a href="https://youtube.com/@dypoleman?si=kmKrOvI45YAKDv4B">Click Me</a>
         <hr>
     </header>
 
@@ -27,7 +28,7 @@
         <small><a href="mailto:AIcat@crt.com">AIcat@cry.com</a></small>
 
     </footer>
-    <a href="https://youtube.com/@dypoleman?si=kmKrOvI45YAKDv4B">Click Me</a>
+    
 
 </body>
 
