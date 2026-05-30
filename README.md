@@ -16,7 +16,7 @@
     <main>
         <h4>This is first web in visual studio</h4>
         <h4>How cat cries</h4>
-        <image src="crying-cat-meme-template-regular-096fc808.webp" alt="cat cry" height="300" alt="Cat cry">
+        <img src="crying-cat-meme-template-regular-096fc808.webp" alt="cat cry" height="300" alt="Cat cry">
         <p>This cat's AI family is dead</p>
     </main>
 
